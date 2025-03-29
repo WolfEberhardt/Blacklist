@@ -1,30 +1,3 @@
-# README - Domain- und Link-Blacklists
-
-## Überblick
-Hier finden Sie Domain- und Link-Blacklists zu verschiedenen Themen. Diese Listen können für Sicherheits-, Datenschutz- oder Netzwerkanwendungen genutzt werden, um unerwünschte oder potenziell schädliche Webseiten zu blockieren.
-
-## Themenbereiche
-Die Blacklists sind thematisch sortiert und umfassen unter anderem:
-- **Malware & Phishing**: Domains, die mit Schadsoftware oder betrügerischen Praktiken in Verbindung stehen.
-- **Werbung & Tracking**: Seiten, die für aggressive Werbung oder Nutzerverfolgung bekannt sind.
-- **Falschinformationen & Fake News**: Webseiten, die für die Verbreitung falscher Informationen bekannt sind.
-- **Jugendgefährdende Inhalte**: Domains mit nicht jugendfreien oder problematischen Inhalten.
-
-## Verwendung
-Die Blacklists können in verschiedenen Szenarien eingesetzt werden:
-- **Firewall- und Proxy-Filterung**
-- **Ad-Blocker-Regeln**
-- **DNS-Blocking** (z. B. durch Pi-hole oder andere DNS-Filter)
-- **Unternehmensnetzwerke zur Zugriffskontrolle**
-
-## Aktualisierung
-Die Listen werden regelmäßig aktualisiert, um neue Bedrohungen und unerwünschte Inhalte abzudecken. Nutzer können auch zur Pflege der Listen beitragen.
-
-## Haftungsausschluss
-Diese Blacklists werden nach bestem Wissen gepflegt, dennoch können Fehler oder Fehleinschätzungen vorkommen. Verwenden Sie sie daher auf eigene Verantwortung und passen Sie sie gegebenenfalls an Ihre Bedürfnisse an.
-
----
-
 # README - Domain and Link Blacklists
 
 ## Overview
