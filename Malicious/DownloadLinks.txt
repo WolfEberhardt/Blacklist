@@ -1,0 +1,17 @@
+https://github.com/DevSpen/scam-links/raw/refs/heads/master/src/malicious-terms.txt
+https://github.com/romainmarcoux/malicious-domains/raw/refs/heads/main/full-domains-aa.txt
+https://github.com/romainmarcoux/malicious-domains/raw/refs/heads/main/full-domains-ab.txt
+https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist/raw/refs/heads/main/domains-abp-pihole.txt
+https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist/raw/refs/heads/main/hosts.txt
+
+
+
+
+
+
+
+
+
+
+
+
